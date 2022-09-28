@@ -1,0 +1,8 @@
+.max-img-container {
+  height: 10em;
+}
+
+.max-img {
+  max-height: 100%;
+  object-fit: cover;
+}
